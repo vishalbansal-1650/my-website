@@ -7,5 +7,7 @@ made changes on master on Github after rebase
 
 
 ## repository changes
+This is just readme file
 
-This change will create conflict.
+
+
